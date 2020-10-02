@@ -26,7 +26,10 @@ public class ClassEx2 {
         ;
         System.out.println
         ("Name:Lukas de Menezes")
-        ;    
+        ;
+        System.out.println
+        ("Name:Luís Belo")
+        ;
     } 
         //Definimos acima a saida do nosso executavel para os args.
 }
