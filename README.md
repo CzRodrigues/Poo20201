@@ -1,3 +1,3 @@
 # Poo20201
-Aqui estarão os códigos a respeito do LAB1 da Discipliana de POO referente a: Primeira Aplicação, Comentários e Package
+Aqui estarão os códigos a respeito de todos os LABs da Disciplina de Programação Orientada a Objetos usando a linguagem Java
  Object-oriented programming // First presentation 
