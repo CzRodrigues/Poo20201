@@ -12,7 +12,7 @@ public class BouncingBall {
         StdDraw.setYscale(-1.0, 1.0);
         Color c = new Color(100,100,100);
 
-        // Adicionando às esferas 
+        // Chando a funcao de criar os circulos e repassando seus devidos parametros
         Circle circle1 = new Circle(.480, .860, .015, .023);
         Circle circle2 = new Circle(.480, .860, -.015, -.023);
         // Raio
@@ -47,7 +47,7 @@ public class BouncingBall {
             circle2.rx = circle2.rx + circle2.vx; 
             circle2.ry = circle2.ry + circle2.vy;
 
-            //Color das bolas
+            //Cor das bolas
             StdDraw.setPenColor(StdDraw.BLACK);
             // Execução das bolas 
             StdDraw.filledCircle(circle1.rx, circle1.ry, radius);
