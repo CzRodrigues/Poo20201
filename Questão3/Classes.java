@@ -4,7 +4,11 @@
 
 */
 public class Classes extends Abstrato {
-
+    
+    public Classes(String nome) {
+        super(nome);
+    }
+    
     @Override
     public void emitirSom() {
         System.out.println("Saindo som");
